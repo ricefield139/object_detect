@@ -6,7 +6,7 @@ Spesifikasi gua
 * Python Version: Python 3.8.8 (Ini gw install bareng anaconda)
 * Tensorflow Ver: 2.5.0 (Jangan lupa tensorflow lite, liat di notebooknya)
 
-Gw sekarang carany a bikin python env didalam conda env. Jadi stepsnya kalau gw
+Gw sekarang carany a bikin python env didalam conda env. Jadi stepsnya kalau mau ke environment itu gw kayak gini:
 1. conda activate --> bakal ke env si Anaconda
 2. source {masukin env lu disini}/bin/activate
 
